@@ -51,7 +51,7 @@ echo $BASH_VERSION
 <!-- keep the format -->
 >[!TIP]
 ><!-- -->
->``bash
+>```bash
 > bash -c echo "\n\n<-- Link sign - Don't Found a better way :-( - You know a better method? - send me a email --> \n\n[1]: ./img/link_symbol.svg"  >> ./project_path.md
 >```
 <!-- -->
